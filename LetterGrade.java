@@ -1,5 +1,3 @@
-// Group Name: Shivasena
-// Group members:  Prashanth Goud Janagama, Pavan Siva Reddy Kristipati
 
 import java.util.Scanner;
 
@@ -7,8 +5,9 @@ public class LetterGrade {
 
     public static void main(String [] args){
 
-        System.out.println("Prashanth Goud Janagama, Pavan Siva Reddy Kristipati \n");
+         System.out.println(" \n Author: Prashanth Goud Janagama \n");
 
+       
         char letterGrade;
         
         System.out.println(" Please enter your grade: ");
@@ -17,6 +16,7 @@ public class LetterGrade {
 
         int grade = scan.nextInt();
 
+       
 
         // if grade >= 90, set the letterGrade to A
 
