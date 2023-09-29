@@ -49,8 +49,16 @@ public class LetterGrade {
         }
         // else set the letterGrade to F
 
-        else{
-              System.out.println(" Set the letterGrade to F");
+        // Before updating else condition
+
+        // else{
+        //       System.out.println(" Set the letterGrade to F");
+        // }
+
+        // After updating else condition
+
+         else{
+              System.out.println(" Your test grade is: F");
         }
     }
 }
