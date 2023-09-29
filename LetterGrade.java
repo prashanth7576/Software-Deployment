@@ -18,44 +18,71 @@ public class LetterGrade {
 
        
 
+        // if grade >= 95, set the letterGrade to A+
+
+        if (  grade >= 95 ){
+            
+            String Grade = "A+";
+
+            System.out.println(" your test grade is:" +" " + Grade);
+        } 
+
         // if grade >= 90, set the letterGrade to A
 
-        if (  grade >= 90 ){
+        else if(grade >= 90){
             letterGrade = 'A';
 
-            System.out.println(" your test grade is:" + letterGrade);
-        } 
+             System.out.println(" your test grade is:" +" " + letterGrade);
+        }
+
+        // if grade >= 85, set the letterGrade to B+
+
+        else if(grade >= 85){
+            String Grade = "B+";
+
+             System.out.println(" your test grade is:" +" " + Grade);
+        }
 
         // if grade >= 80, set the letterGrade to B
 
         else if(grade >= 80){
             letterGrade = 'B';
 
-             System.out.println(" your test grade is:" + letterGrade);
+             System.out.println(" your test grade is:" +" " + letterGrade);
+        }
+
+        // if grade >= 75, set the letterGrade to C+
+
+        else if(grade >= 75){
+            String Grade = "C+";
+
+             System.out.println(" your test grade is:" +" " + Grade);
         }
         // if grade >= 70, set the letterGrade to C
 
         else if(grade >= 70){
             letterGrade = 'C';
 
-             System.out.println(" your test grade is:" + letterGrade);
+             System.out.println(" your test grade is:" +" " + letterGrade);
+        }
+
+        // if grade >= 65, set the letterGrade to D+
+
+        else if(grade >= 65){
+            String Grade = "D+";
+
+             System.out.println(" your test grade is:" +" " + Grade);
         }
         // if grade >= 60, set the letterGrade to D
 
         else if(grade >= 60){
             letterGrade = 'D';
 
-             System.out.println(" your test grade is:" + letterGrade);
+             System.out.println(" your test grade is:" +" " + letterGrade);
         }
-        // else set the letterGrade to F
 
-        // Before updating else condition
-
-        // else{
-        //       System.out.println(" Set the letterGrade to F");
-        // }
-
-        // After updating else condition
+        // if grade <= 60, set the letterGrade to F
+       
 
          else{
               System.out.println(" Your test grade is: F");
