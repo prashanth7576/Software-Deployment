@@ -1,0 +1,71 @@
+D:\Week6_java>java LetterGrade
+
+ Author: Prashanth Goud Janagama
+
+ Please enter your grade:
+95
+ your test grade is: A+
+
+D:\Week6_java>java LetterGrade
+
+ Author: Prashanth Goud Janagama
+
+ Please enter your grade:
+90
+ your test grade is: A
+
+D:\Week6_java>java LetterGrade
+
+ Author: Prashanth Goud Janagama
+
+ Please enter your grade:
+85
+ your test grade is: B+
+
+D:\Week6_java>java LetterGrade
+
+ Author: Prashanth Goud Janagama
+
+ Please enter your grade:
+80
+ your test grade is: B
+
+D:\Week6_java>java LetterGrade
+
+ Author: Prashanth Goud Janagama
+
+ Please enter your grade:
+75
+ your test grade is: C+
+
+D:\Week6_java>java LetterGrade
+
+ Author: Prashanth Goud Janagama
+
+ Please enter your grade:
+70
+ your test grade is: C
+
+D:\Week6_java>java LetterGrade
+
+ Author: Prashanth Goud Janagama
+
+ Please enter your grade:
+65
+ your test grade is: D+
+
+D:\Week6_java>java LetterGrade
+
+ Author: Prashanth Goud Janagama
+
+ Please enter your grade:
+60
+ your test grade is: D
+
+D:\Week6_java>java LetterGrade
+
+ Author: Prashanth Goud Janagama
+
+ Please enter your grade:
+55
+ Your test grade is: F
